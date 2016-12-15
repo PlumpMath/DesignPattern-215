@@ -1,4 +1,4 @@
-package com.dji.desingPattern.simpleFactory.OAPermissionFactory;
+package com.dji.designPattern.simpleFactory.OAPermissionFactory;
 
 public class UserFactory {
 
