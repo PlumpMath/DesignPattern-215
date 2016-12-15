@@ -5,7 +5,7 @@
  * @author yancy.yang
  *
  */
-package com.dji.desingPattern.simpleFactory.OAPermissionFactory;
+package com.dji.designPattern.simpleFactory.OAPermissionFactory;
 
 public abstract class User {
 	public void sameOperation() {
